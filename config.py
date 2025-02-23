@@ -6,7 +6,7 @@ TELEGRAM_HASH = "36150e358dd8bc2040dc8decd5250bcd"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = "2"
+CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002433401958"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://scleechadp:scleech08@scleech.gzwjf.mongodb.net/?retryWrites=true&w=majority&appName=scleech"
