@@ -20,11 +20,7 @@ INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = "www.1TamilBlasters.men - | www.1TamilMV.tel - |"
-FFMPEG_CMDS = {
-  "metadata": [
-    "-i mltb -map 0 -metadata title='SA' -metadata:s:v title='SA' -metadata:s:a title='SA' -metadata:s:s title='SA' -c copy mltb.mkv -del"
-  ]
-}
+FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 # GDrive Tools
 GDRIVE_ID = ""
