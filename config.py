@@ -6,7 +6,7 @@ TELEGRAM_HASH = "36150e358dd8bc2040dc8decd5250bcd"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
+CMD_SUFFIX = "2"
 AUTHORIZED_CHATS = "-1002433401958"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://scleechadp:scleech08@scleech.gzwjf.mongodb.net/?retryWrites=true&w=majority&appName=scleech"
@@ -63,7 +63,7 @@ UPSTREAM_REPO = "https://github.com/samudhan2008/mirror-leech-telegram-bot"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
-AS_DOCUMENT = False
+AS_DOCUMENT = True 
 EQUAL_SPLITS = False
 MEDIA_GROUP = False
 USER_TRANSMISSION = False
