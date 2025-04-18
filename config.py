@@ -19,7 +19,7 @@ EXCLUDED_EXTENSIONS = ""
 INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
-NAME_SUBSTITUTE = "www.1TamilBlasters.men - | www.1TamilMV.tel - |"
+NAME_SUBSTITUTE = "www.1TamilBlasters.men - | www.1TamilMV.cam - |"
 FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 # GDrive Tools
